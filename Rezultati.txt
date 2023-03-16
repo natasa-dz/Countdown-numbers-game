@@ -1,0 +1,6 @@
+1|3 4 5 9 10 100 |Trazeni  broj: 358|Izraz takmicara:100*3+10*5+9|Nas rezultat: 359|igrac A|Resenje programa: 359|Odstupanje: 1
+2|2 4 7 8 15 100 |Trazeni  broj: 768|Izraz takmicara:7*100+15*4+8|Nas rezultat: 768|igrac B|Resenje programa: 768|Odstupanje: 0
+Rezultat igraca A: 1|Rezultat igraca B: 1|Nereseno
+----------------------------------------------------------------
+
+1|3 4 5 9 10 100 |Trazeni  broj: 351|Izraz takmicara:100*3+5*10|Nas rezultat: 350|igrac A|Resenje programa: 350|Odstupanje: 1
